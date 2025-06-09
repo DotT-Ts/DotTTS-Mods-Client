@@ -1,5 +1,8 @@
 # DotTTs-SMP Minecraft Client Setup Guide
 ---
+You can find all the client mods at [/JavaMods/](https://github.com/DotT-Ts/DotTTS-Mods-Client/tree/main/JavaMods)
+
+
 ## Important Notes
 
 - The server **expects all provided mods to be installed on the client**.
