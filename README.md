@@ -11,6 +11,9 @@
 - **Java 17+ is required**  
   - **[Java 21](https://www.oracle.com/uk/java/technologies/downloads/#jdk21-windows) is recommended** for better performance.
 - **[Minecraft Forge 1.20.1 (version 47.4.1)](https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.1/forge-1.20.1-47.4.1-installer.jar)**
+
+## Recommendation
+- We recommend to use a [method 2 via a Multi-Launcher](https://github.com/DotT-Ts/DotTTS-Mods-Client/tree/main#using-a-multi-launcher-example-with-prism-launcher) for ease of use.
 ---
 ## Getting Started with the Vanilla Minecraft Launcher
 1. **Install Forge 1.20.1 (47.4.1)** 
